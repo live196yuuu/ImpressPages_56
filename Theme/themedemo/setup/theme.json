@@ -1,0 +1,17 @@
+{
+    "title": "themedemo",
+    "version": "1.00",
+    "doctype": "HTML5",
+    "thumbnail": "thumbnail.jpg",
+    "author": "eXpectancy",
+    "widget": {
+        "image": {
+            "width": 540,
+            "height": 342
+        },
+        "imageGallery": {
+            "width": 160,
+            "height": 100
+        }
+    }
+}
